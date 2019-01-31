@@ -7,14 +7,14 @@ LE THÈME D'AVRIL EST : La santé et le bien-être
 
 Consultez la diapositive n° 4 pour obtenir des suggestions pour intégrer le thème aux projets des apprenants, s'ils souhaitent participer au thème.
 
-#Ladies Learning Code
-##Intro to Blogging & Wordpress
+# Ladies Learning Code
+## Intro to Blogging & Wordpress
 
 ## Liens rapides
 
 Aperçu des diapositives : ladieslearningcode.github.io/llc-intro-to-wordpress-FR/slides_fr.html
 
-##Sources
+## Sources
 
 Contenu créé par [Emily Baillie](https://twitter.com/EmilyBaillie), [Daniel Butterfield](http://www.stelsewhereweb.com) et [Christina Truong](http://christinatruong.com) pour [Canada en programmation](https://www.canadalearningcode.ca/).
 
