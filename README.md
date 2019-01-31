@@ -12,7 +12,7 @@ Consultez la diapositive n° 4 pour obtenir des suggestions pour intégrer le th
 
 ## Liens rapides
 
-Aperçu des diapositives : ladieslearningcode.github.io/llc-intro-to-wordpress-FR/slides_fr.html
+Aperçu des diapositives : http://ladieslearningcode.github.io/llc-intro-to-wordpress-FR/slides_fr.html
 
 ## Sources
 
